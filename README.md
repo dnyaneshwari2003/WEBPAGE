@@ -1,4 +1,4 @@
-#SIMPLE WEBPAGE
+# SIMPLE WEBPAGE
 ## Motto-Inspired Website
 
 Welcome to the **Motto-Inspired Website** repository! This project showcases a simple, modern, and responsive website with clean design principles. It highlights a creative agency's mission, services, and a call-to-action for visitors.
@@ -9,10 +9,6 @@ Welcome to the **Motto-Inspired Website** repository! This project showcases a s
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Customization](#customization)
-- [License](#license)
 
 ---
 

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Motto-Inspired Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    text-align: center;
+    padding: 5rem 1rem;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    color: white;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.hero p {
+    margin: 1rem 0;
+    font-size: 1.25rem;
+}
+
+.cta {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.75rem 1.5rem;
+    background: #222;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.about, .services {
+    padding: 3rem 1rem;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+.services .service-item {
+    margin-top: 1rem;
+}
+
+#services{
+    background: linear-gradient(to left, #af6194, #feb47b);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #222;
+    color: white;
+}
+
+
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">Motto</div>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">       <!--div use kela tar kahi farak padat nahi-->
+        <h1>Welcome to Motto</h1>
+        <p>Where creativity meets strategy.</p>
+        <a href="#about" class="cta">Discover More</a>
+    </section>
+
+    <section id="about" class="about">
+        <h2>About Us</h2>
+        <p>We are a creative agency specializing in crafting brands that connect with audiences worldwide.</p>
+    </section>
+
+    <section id="services" class="services">
+        <h2>Our Services</h2>
+        <div class="service-item">
+            <h3>Brand Strategy</h3>
+            <p>We develop strategies that inspire and engage.</p>
+        </div>
+        <div class="service-item">
+            <h3>Design Excellence</h3>
+            <p>Beautiful designs that captivate audiences.</p>
+        </div>
+        <div class="service-item">
+            <h3>Marketing</h3>
+            <p>Innovative campaigns to boost your brand.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 Motto. All rights reserved.</p>
+    </footer>
+
+    <!-- <script src="script.js"></script> -->
+</body>
+</html>

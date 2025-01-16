@@ -6,7 +6,7 @@
     <title>Motto-Inspired Website</title>
     <link rel="stylesheet" href="styles.css">
     <style>
-        /* Global Styles */
+        
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;

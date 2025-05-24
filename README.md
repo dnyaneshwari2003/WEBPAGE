@@ -10,7 +10,7 @@ Welcome to the **Motto-Inspired Website** repository! This project showcases a s
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
 
----
+
 
 ## Overview
 The **Motto-Inspired Website** is a static web page that serves as a demonstration of:

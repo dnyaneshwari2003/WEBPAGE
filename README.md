@@ -11,7 +11,6 @@ Welcome to the **Motto-Inspired Website** repository! This project showcases a s
   - [Prerequisites](#prerequisites)
 
 
-
 ## Overview
 The **Motto-Inspired Website** is a static web page that serves as a demonstration of:
 - Responsive design

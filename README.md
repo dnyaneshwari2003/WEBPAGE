@@ -1,6 +1,5 @@
 # SIMPLE WEBPAGE
 ## Motto-Inspired Website
-
 Welcome to the **Motto-Inspired Website** repository! This project showcases a simple, modern, and responsive website with clean design principles. It highlights a creative agency's mission, services, and a call-to-action for visitors.
 
 ## Table of Contents
